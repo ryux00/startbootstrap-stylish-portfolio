@@ -248,3 +248,10 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.header-img{
+	display: inherit !important;
+}
+.header-align{
+	vertical-align: top !important;
+}
