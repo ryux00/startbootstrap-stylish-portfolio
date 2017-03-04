@@ -250,7 +250,8 @@ footer {
 }
 
 .header-img{
-	display: inherit !important;
+	max-width: 100%;
+	height: auto;
 }
 .header-align{
 	vertical-align: top !important;
